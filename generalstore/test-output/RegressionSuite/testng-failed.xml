@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [RegressionSuite]" parallel="tests">
+  <test name="MyTest0(failed)" parallel="tests">
+    <classes>
+      <class name="com.abott.Tests.GeneralStoreTest">
+        <methods>
+          <include name="close"/>
+          <include name="setUp"/>
+          <include name="TC1"/>
+        </methods>
+      </class> <!-- com.abott.Tests.GeneralStoreTest -->
+    </classes>
+  </test> <!-- MyTest0(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

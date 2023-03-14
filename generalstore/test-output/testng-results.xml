@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="99817" started-at="2023-03-14T12:56:42Z" finished-at="2023-03-14T12:58:22Z">
+    <groups>
+    </groups>
+    <test name="MyTest0" duration-ms="99817" started-at="2023-03-14T12:56:42Z" finished-at="2023-03-14T12:58:22Z">
+      <class name="com.abott.Tests.GeneralStoreTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.abott.Tests.GeneralStoreTest@71423665]" name="setUp" is-config="true" duration-ms="12361" started-at="2023-03-14T18:26:42Z" finished-at="2023-03-14T18:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC1()[pri:1, instance:com.abott.Tests.GeneralStoreTest@71423665]" name="TC1" duration-ms="86590" started-at="2023-03-14T18:26:55Z" finished-at="2023-03-14T18:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.abott.Tests.GeneralStoreTest@71423665]" name="close" is-config="true" duration-ms="836" started-at="2023-03-14T18:28:21Z" finished-at="2023-03-14T18:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.abott.Tests.GeneralStoreTest -->
+    </test> <!-- MyTest0 -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

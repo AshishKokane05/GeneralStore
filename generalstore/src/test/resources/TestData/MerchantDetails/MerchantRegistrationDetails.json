@@ -1,0 +1,14 @@
+[
+	{
+		"MerchantId": "autoID_1",
+		"MerchantName": "Ashish Kokane",
+		"Country": "Bahamas",
+		"Gender": "Male"
+	},
+	{
+		"MerchantId": "autoID_2",
+		"MerchantName": "Ankita",
+		"Country": "India",
+		"Gender": "Female"
+	}
+]
