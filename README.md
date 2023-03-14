@@ -21,3 +21,4 @@ also enable Disable permission monitoring.
 -  for running the test (eclipse)go to D:\Workspace\generalstore\src\test\resources\TestRunners\SampleTest.xml and run as Testng.
 - the application will launch on the connected device and the automation Script will Start.
 
+Added Test Run Video general_store_test_run.mp4
