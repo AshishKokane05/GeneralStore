@@ -13,7 +13,7 @@ resp_dict = resp.get('data')
 print("Length of dict")
 print(len(resp_dict))
 
-# for getting difference between population years
+# for getting difference between population years (for reference not used )
 populationDiffList=[]
 for i in range(0,len(resp_dict)):
     if i+1 <len(resp_dict):
